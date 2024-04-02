@@ -2,7 +2,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial contains a brief outline the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This outline contains a tutorial of the post-install configuration for the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -28,28 +28,27 @@ This tutorial contains a brief outline the post-install configuration of the ope
 - SLA Configuration
 - Help Topic Configuration
 
-<h2>Configuration Steps</h2>
+<h2>Role Configuration</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+1) Navigate to the Admin Panel
+
+![Screenshot 2024-03-31 233546](https://github.com/kbd060/post-install-config/assets/150099961/8fea7329-1ab9-4764-90e7-bbfb750a836c)
+![Screenshot 2024-03-31 234754](https://github.com/kbd060/post-install-config/assets/150099961/e8a277d9-c62a-4406-b682-ff78b3f75a46)
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+2) Go to Agents and then Roles.
+
+![Screenshot 2024-03-31 234830](https://github.com/kbd060/post-install-config/assets/150099961/07254358-37bf-48fd-a551-db05cdf68cf8)
+![Screenshot 2024-03-31 234841](https://github.com/kbd060/post-install-config/assets/150099961/664fe32a-3972-4728-9ec6-a676e3835049)
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+3) Create the "Supreme Admin" role, and enable all accessibilities for "Tickets," "Tasks," and "Knowledgebase."
+
+![Screenshot 2024-03-31 235018](https://github.com/kbd060/post-install-config/assets/150099961/9d12dc38-b00d-4a45-9d03-1475bf942c7b)
+![Screenshot 2024-03-31 235108](https://github.com/kbd060/post-install-config/assets/150099961/101026fd-2ef8-4a0a-9bba-3c679fcca0fb)
+![Screenshot 2024-03-31 235214](https://github.com/kbd060/post-install-config/assets/150099961/5af39663-8fca-4a0b-b98a-28ce6467ad9c)
+![Screenshot 2024-03-31 235230](https://github.com/kbd060/post-install-config/assets/150099961/a65c52c4-4ae0-4344-8c03-af4eac96e764)
+
