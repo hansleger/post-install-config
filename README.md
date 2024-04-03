@@ -97,4 +97,25 @@ This outline contains a tutorial of the post-install configuration for the open-
 
 <h2>Agent Configuration</h2>
 
+<p>
+1) Go to the Agent Panel, then Users, and select Add New.
+
+<p>
+2) Add an Agent, such as "Jane", and assign them to the "System Administrators" department with the "Supreme Admin" role. 
+
+![Screenshot 2024-04-01 005215](https://github.com/kbd060/post-install-config/assets/150099961/ec8c142e-da4d-4da6-ba73-9c51dd30213b)
+![Screenshot 2024-04-01 005306](https://github.com/kbd060/post-install-config/assets/150099961/fd2165dc-531d-47d4-8297-8f46d472f028)
+![Screenshot 2024-04-01 005454](https://github.com/kbd060/post-install-config/assets/150099961/d2a4002f-9129-4e99-8442-19067eff8109)
+![Screenshot 2024-04-01 005548](https://github.com/kbd060/post-install-config/assets/150099961/21fa57be-d488-41c2-99e2-92eb2b628bbb)
+![Screenshot 2024-04-01 005631](https://github.com/kbd060/post-install-config/assets/150099961/d65afdb6-f848-4f77-8c82-aec1e0338a18)
+
+<p>
+3) Add an Agent, such as "John", and assign them to the "Support" department with a "View Only" role and extended access to "Support."
+
+![Screenshot 2024-04-01 010100](https://github.com/kbd060/post-install-config/assets/150099961/7703667c-8ffb-47c4-8408-74172529cc39)
+![Screenshot 2024-04-01 010144](https://github.com/kbd060/post-install-config/assets/150099961/ea036305-f148-40fe-bfb3-d96c2a2988d2)
+![Screenshot 2024-04-01 010716](https://github.com/kbd060/post-install-config/assets/150099961/bdf6604f-3a8a-4913-8095-c3f5a7239656)
+
+
+
 
