@@ -52,3 +52,4 @@ This outline contains a tutorial of the post-install configuration for the open-
 ![Screenshot 2024-03-31 235214](https://github.com/kbd060/post-install-config/assets/150099961/5af39663-8fca-4a0b-b98a-28ce6467ad9c)
 ![Screenshot 2024-03-31 235230](https://github.com/kbd060/post-install-config/assets/150099961/a65c52c4-4ae0-4344-8c03-af4eac96e764)
 
+<h2>Department Configuration</h2>
