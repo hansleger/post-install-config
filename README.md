@@ -53,3 +53,16 @@ This outline contains a tutorial of the post-install configuration for the open-
 ![Screenshot 2024-03-31 235230](https://github.com/kbd060/post-install-config/assets/150099961/a65c52c4-4ae0-4344-8c03-af4eac96e764)
 
 <h2>Department Configuration</h2>
+
+<p>
+1) In the Admin Panel, select Agents and then Departments.
+
+![Screenshot 2024-04-01 000409](https://github.com/kbd060/post-install-config/assets/150099961/4d181df6-9329-4edc-ab69-66a0b62be18f)
+
+<p>
+2) Create a department named "System Administrators", using the default settings.
+
+![Screenshot 2024-04-01 000636](https://github.com/kbd060/post-install-config/assets/150099961/2f574dd3-6567-4b0a-b3ea-5cf80f8ba24a)
+![Screenshot 2024-04-01 000704](https://github.com/kbd060/post-install-config/assets/150099961/aab3c648-9335-408b-8837-65bb5f876464)
+
+
