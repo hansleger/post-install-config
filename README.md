@@ -84,6 +84,17 @@ This outline contains a tutorial of the post-install configuration for the open-
 ![Screenshot 2024-04-01 002040](https://github.com/kbd060/post-install-config/assets/150099961/82f18be9-1044-4041-8452-b142bc33c801)
 
 
+<h2>Ticket Creation Access</h2>
 
+<p>
+1) Within the Admin Panel, navigate to Settings and then User Settings.
+
+![Screenshot 2024-04-01 002910](https://github.com/kbd060/post-install-config/assets/150099961/ec583a20-3b84-4cdc-9730-b59263413c57)
+
+<p>
+2) Ensure "Registration Required" is disabled to allow anyone to create tickets.
+
+
+<h2>Agent Configuration</h2>
 
 
