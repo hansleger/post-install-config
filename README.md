@@ -59,10 +59,31 @@ This outline contains a tutorial of the post-install configuration for the open-
 
 ![Screenshot 2024-04-01 000409](https://github.com/kbd060/post-install-config/assets/150099961/4d181df6-9329-4edc-ab69-66a0b62be18f)
 
+
 <p>
 2) Create a department named "System Administrators", using the default settings.
 
 ![Screenshot 2024-04-01 000636](https://github.com/kbd060/post-install-config/assets/150099961/2f574dd3-6567-4b0a-b3ea-5cf80f8ba24a)
 ![Screenshot 2024-04-01 000704](https://github.com/kbd060/post-install-config/assets/150099961/aab3c648-9335-408b-8837-65bb5f876464)
+
+
+<h2>Team Configuration</h2>
+
+<p>
+1) Access the Admin Panel, then go to Agents and select Teams.
+
+![Screenshot 2024-04-01 001736](https://github.com/kbd060/post-install-config/assets/150099961/c3310e9f-6b57-4f44-be42-f2cab7f6aec0)
+
+
+<p>
+2) Create teams such as "Level I Support" and "Level II Support," and add members as necessary, like "hans leger" to "Level II Support."
+
+![Screenshot 2024-04-01 001736](https://github.com/kbd060/post-install-config/assets/150099961/d5f44b40-f08e-4b3b-b5d1-b56c322de218)
+![Screenshot 2024-04-01 001920](https://github.com/kbd060/post-install-config/assets/150099961/c9bd64ad-650e-4c86-b129-6328781faa06)
+![Screenshot 2024-04-01 001946](https://github.com/kbd060/post-install-config/assets/150099961/47b337c2-7fb6-47e5-91e1-4fd00165964a)
+![Screenshot 2024-04-01 002040](https://github.com/kbd060/post-install-config/assets/150099961/82f18be9-1044-4041-8452-b142bc33c801)
+
+
+
 
 
