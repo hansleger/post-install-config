@@ -132,7 +132,20 @@ This outline contains a tutorial of the post-install configuration for the open-
 ![Screenshot 2024-04-01 193021](https://github.com/kbd060/post-install-config/assets/150099961/00bd9bd6-18bf-4768-9b39-5c2513e88d4c)
 
 
+<h2>SLA Configuration</h2>
 
+<p>
+1) In the Admin Panel, go to Manage and then SLAs.
+
+![Screenshot 2024-04-01 195130](https://github.com/kbd060/post-install-config/assets/150099961/4c9f4b59-70ab-4b0d-83a2-61933fa75479)
+
+<p>
+2) Set up SLAs such as, "Sev-A" (1 hour, 24/7), "Sev-B" (4 hours, 24/7), and "Sev-C" (8 hours, business hours).
+
+![Screenshot 2024-04-01 195252](https://github.com/kbd060/post-install-config/assets/150099961/17717538-a8bd-4696-a5b2-7e609995bcfd)
+![Screenshot 2024-04-01 195345](https://github.com/kbd060/post-install-config/assets/150099961/cc6396ef-e2b8-44da-a48b-9eeaed588270)
+![Screenshot 2024-04-01 195513](https://github.com/kbd060/post-install-config/assets/150099961/91452fe7-fc24-4cb5-97ce-4579f1b1239b)
+![Screenshot 2024-04-01 195528](https://github.com/kbd060/post-install-config/assets/150099961/5f1d473d-2543-48ea-91fc-94fdccb995de)
 
 
 
