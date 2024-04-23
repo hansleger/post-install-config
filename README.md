@@ -117,5 +117,27 @@ This outline contains a tutorial of the post-install configuration for the open-
 ![Screenshot 2024-04-01 010716](https://github.com/kbd060/post-install-config/assets/150099961/bdf6604f-3a8a-4913-8095-c3f5a7239656)
 
 
+<h2>User Configuration</h2>
+
+<p>
+1) Within the Agent Panel, go to Users and select Add New.
+
+![Screenshot 2024-04-01 192903](https://github.com/kbd060/post-install-config/assets/150099961/60346fc2-d1b2-429e-a8c3-226b4f57dc48)
+
+<p>
+2) Add users such as "Karen" and "Ken" as help desk ticket owners.
+
+![Screenshot 2024-04-01 193108](https://github.com/kbd060/post-install-config/assets/150099961/d694418d-28d9-4355-9552-4f811aff1447)
+![Screenshot 2024-04-01 193124](https://github.com/kbd060/post-install-config/assets/150099961/c77f28c7-66b6-4d8e-822a-ac0351148bb1)
+![Screenshot 2024-04-01 193021](https://github.com/kbd060/post-install-config/assets/150099961/00bd9bd6-18bf-4768-9b39-5c2513e88d4c)
+
+
+
+
+
+
+
+
+
 
 
