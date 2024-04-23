@@ -148,6 +148,26 @@ This outline contains a tutorial of the post-install configuration for the open-
 ![Screenshot 2024-04-01 195528](https://github.com/kbd060/post-install-config/assets/150099961/5f1d473d-2543-48ea-91fc-94fdccb995de)
 
 
+<h2>Help Topic Configuration</h2>
+
+<p> 
+1) Navigate to the Admin Panel, then Manage, and select Help Topics.
+
+![Screenshot 2024-04-01 203715](https://github.com/kbd060/post-install-config/assets/150099961/68a7d533-8383-48e6-b42c-f47c125b71d7)
+
+<p>
+2) Create topics such as "Business Critical Outage," "Personal Computer Issues," "Equipment Request," and "Password Reset."
+
+![Screenshot 2024-04-01 203923](https://github.com/kbd060/post-install-config/assets/150099961/76f8b7cb-82b9-4d26-880a-cf6f2ac9415c)
+![Screenshot 2024-04-01 204011](https://github.com/kbd060/post-install-config/assets/150099961/48ca934b-9bd3-40e8-940e-96c6f760ee8e)
+![Screenshot 2024-04-01 204253](https://github.com/kbd060/post-install-config/assets/150099961/f78de1c1-5462-49d5-bfef-6ceb6c61455f)
+![Screenshot 2024-04-01 204333](https://github.com/kbd060/post-install-config/assets/150099961/07a8a030-d052-46b0-a092-8cbc82d117f6)
+![Screenshot 2024-04-01 204510](https://github.com/kbd060/post-install-config/assets/150099961/f67e1266-cc25-4416-ae6d-c58cd5264ede)
+
+
+Follow these steps carefully to efficiently set up your help desk system.
+
+
 
 
 
